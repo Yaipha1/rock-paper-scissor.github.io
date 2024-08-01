@@ -12,16 +12,16 @@ body{
 h1 {
     background-color: #081b31;
     color: white;
-    height: 5rem;
-    line-height: 5rem;
+    height: 3.5rem;
+    line-height: 3.5rem;
     
 }
 #div1{
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 #pick{
     background-color: rgb(63, 79, 143);
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: white;
     border-radius: 2rem;
     display:inline;
@@ -30,8 +30,8 @@ h1 {
 }
 
 .choice{
-    height: 160px;
-    width: 160px;
+    height: 130px;
+    width: 130px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -45,8 +45,8 @@ h1 {
 
 
 img{
-    height: 150px;
-    width: 150px;
+    height: 120px;
+    width: 120px;
     object-fit: covers;
     border-radius: 50%;
 }
@@ -60,12 +60,12 @@ img{
 }
 
 .computer{
-    margin-top: 3rem;
+    margin-top: 2rem;
 }
 
 .comp{
     background-color: rgb(63, 79, 143);
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: white;
     border-radius: 2rem;
     display:inline;
@@ -83,8 +83,8 @@ img{
 
 }
 .picture{
-    height: 160px;
-    width: 160px;
+    height: 120px;
+    width: 120px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -104,7 +104,7 @@ img{
 
 #user-score, 
 #comp-score{
-    font-size: 4rem;
+    font-size: 3rem;
 }
 .msg-container{
     margin-top: 2rem;
@@ -112,7 +112,7 @@ img{
 #msg{
     background-color:#081b31;
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.5rem;
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
